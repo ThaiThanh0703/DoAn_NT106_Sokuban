@@ -1,0 +1,6 @@
+E:\UIT\năm 2\hk-4\LT mang Can ban\DoAn_NT106_Sokuban\Server\Server\DTO\bin\Debug\DTO.dll
+E:\UIT\năm 2\hk-4\LT mang Can ban\DoAn_NT106_Sokuban\Server\Server\DTO\bin\Debug\DTO.pdb
+E:\UIT\năm 2\hk-4\LT mang Can ban\DoAn_NT106_Sokuban\Server\Server\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\UIT\năm 2\hk-4\LT mang Can ban\DoAn_NT106_Sokuban\Server\Server\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\UIT\năm 2\hk-4\LT mang Can ban\DoAn_NT106_Sokuban\Server\Server\DTO\obj\Debug\DTO.dll
+E:\UIT\năm 2\hk-4\LT mang Can ban\DoAn_NT106_Sokuban\Server\Server\DTO\obj\Debug\DTO.pdb

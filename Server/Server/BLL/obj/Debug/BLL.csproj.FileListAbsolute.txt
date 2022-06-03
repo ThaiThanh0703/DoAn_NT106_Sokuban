@@ -1,0 +1,11 @@
+E:\UIT\năm 2\hk-4\LT mang Can ban\DoAn_NT106_Sokuban\Server\Server\BLL\bin\Debug\BLL.dll
+E:\UIT\năm 2\hk-4\LT mang Can ban\DoAn_NT106_Sokuban\Server\Server\BLL\bin\Debug\BLL.pdb
+E:\UIT\năm 2\hk-4\LT mang Can ban\DoAn_NT106_Sokuban\Server\Server\BLL\bin\Debug\DAL.dll
+E:\UIT\năm 2\hk-4\LT mang Can ban\DoAn_NT106_Sokuban\Server\Server\BLL\bin\Debug\DTO.dll
+E:\UIT\năm 2\hk-4\LT mang Can ban\DoAn_NT106_Sokuban\Server\Server\BLL\bin\Debug\DAL.pdb
+E:\UIT\năm 2\hk-4\LT mang Can ban\DoAn_NT106_Sokuban\Server\Server\BLL\bin\Debug\DTO.pdb
+E:\UIT\năm 2\hk-4\LT mang Can ban\DoAn_NT106_Sokuban\Server\Server\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\UIT\năm 2\hk-4\LT mang Can ban\DoAn_NT106_Sokuban\Server\Server\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\UIT\năm 2\hk-4\LT mang Can ban\DoAn_NT106_Sokuban\Server\Server\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\UIT\năm 2\hk-4\LT mang Can ban\DoAn_NT106_Sokuban\Server\Server\BLL\obj\Debug\BLL.dll
+E:\UIT\năm 2\hk-4\LT mang Can ban\DoAn_NT106_Sokuban\Server\Server\BLL\obj\Debug\BLL.pdb
